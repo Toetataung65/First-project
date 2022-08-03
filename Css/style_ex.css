@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto+Mono:wght@100&family=Rubik:ital,wght@0,400;0,500;0,600;0,700;1,300&display=swap');
+
+:root{
+    --green:#00e77f;
+    --white:#fff;
+    --light-whitd:#aaa;
+    --black:#3d3d3d;
+    --light-bg:#4b4b4b;
+}
+*{
+    font-family:'Rubik', sans-serif;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    outline: none; border: none;
+    text-decoration: none;
+    transition: .2s linear;
+    text-transform: capitalize;
+}
